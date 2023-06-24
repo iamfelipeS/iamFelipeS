@@ -1,4 +1,4 @@
-## Olá, sou o Felipe, desenvolvedor Web!
+## Hello! I'm Felipe, Web Developer!
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamFelipeS&repo=convoychat&theme=transparent" />
 </a>
